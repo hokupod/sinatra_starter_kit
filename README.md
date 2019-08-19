@@ -1,6 +1,11 @@
 # sinatra_starter_kit
 
-## start sinatra
+## system configration
+- Docker
+- Nginx
+- Thin
+
+## run sinatra app
 
 1. run `docker-compose build && docker-compose up -d`
 2. enjoy!
