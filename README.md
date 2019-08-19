@@ -8,4 +8,5 @@
 ## run sinatra app
 
 1. run `docker-compose build && docker-compose up -d`
-2. enjoy!
+2. browse `http://localhost`
+3. enjoy!
